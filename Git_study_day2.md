@@ -14,7 +14,7 @@ git remote -v
 
 - 등록된 원격 저장소 삭제
   
-```python
+```pythonPy
 git remote rm repo_name
 ```
 ---
