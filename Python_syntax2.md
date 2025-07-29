@@ -203,7 +203,3 @@ print(str(1) + '등')  # 1등
 - 연산자 우선순위 정리 :
 - <span style="color:pink"> 괄/ 인/ 거/ 산/ 비/ 멤/ 논 </span>
 ![연산자 우선순위](image-24.png)
-
-
-
-
